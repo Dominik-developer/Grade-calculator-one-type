@@ -1,2 +1,2 @@
 # Grade-calculator
-Web grade calculator
+Web grade calculator for teachers at my High School
