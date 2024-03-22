@@ -1,2 +1,15 @@
 # Grade-calculator
-Web grade calculator for teachers at my High School
+
+Kalkulator ocen dla mojego liceum
+
+Zgodny z procentami: <br>
+0 – 29 % - niedostateczny;  <br>
+30 – 45 % - dopuszczający;  <br>
+46 – 49 % - dopuszczający +;  <br>
+50 – 65 % - dostateczny;  <br>
+66 – 69 % - dostateczny +;  <br>
+70 – 85 % - dobry;  <br>
+86 – 89 % - dobry +;  <br>
+90 – 95 % - bardzo dobry;  <br>
+96 – 97 % - bardzo dobry +;  <br>
+98 – 100 % - celujący.  <br>
