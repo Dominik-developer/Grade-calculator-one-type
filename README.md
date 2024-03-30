@@ -1,8 +1,10 @@
-# Grade-calculator
+# Grade-calculator: one-type
 
-Kalkulator ocen dla mojego liceum
+Grade calculator created for one type of grades. Example is done for my highschool %s.<br>
 
-Zgodny z procentami: <br>
+Kalkulator ocen dla jednego typu ocen - jedna skala %.<br>
+
+Zgodny z procentami mojego mojego liceum (Staszic HS): <br>
 0 – 29 % - niedostateczny;  <br>
 30 – 45 % - dopuszczający;  <br>
 46 – 49 % - dopuszczający +;  <br>
