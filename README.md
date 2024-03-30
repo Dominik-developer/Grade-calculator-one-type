@@ -1,6 +1,6 @@
 # Grade-calculator: one-type
 
-Grade calculator created for one type of grades. Example is done for my highschool %s.<br>
+Grade calculator created for one type of grades. An example is done for my highschool %s.<br>
 
 Kalkulator ocen dla jednego typu ocen - jedna skala %.<br>
 
